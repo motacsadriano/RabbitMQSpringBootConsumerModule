@@ -15,6 +15,7 @@ public class Employee {
 	private String empId;
 	private int salary;
 	
+	
 	@Override
 	public String toString() {
 		return "Employee [empName=" + empName + ", empId=" + empId + ", salary=" + salary + "]";
